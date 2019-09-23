@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MemoriesApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_keys">C0:32:6C:33:5F:9A:26:76:49:D1:14:2B:2A:FD:0F:91:5F:F5:D5:71</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>
